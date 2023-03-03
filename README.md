@@ -45,7 +45,18 @@ I have implemented in the following test automation steps.
 - Divided the result of multiplication with 10 (70/10=7)
 - Solved this series (100+200-100*2/5)
 
+## Allure Report:
+![allu-1](https://user-images.githubusercontent.com/123467715/222777120-50d812a1-ba2c-4719-b1bf-75e7b27c9dc0.PNG)
 
-## Report:
+![allu-3](https://user-images.githubusercontent.com/123467715/222777180-e1b003a0-c32d-470a-9472-e6b985f3c123.PNG)
+
+![allu-4](https://user-images.githubusercontent.com/123467715/222777228-f2276961-79cb-4433-b124-6200ee50e6d7.PNG)
+
+![allu-5](https://user-images.githubusercontent.com/123467715/222777305-59ceac68-512d-4e06-89dc-c6d58ffcaf0d.PNG)
+
+![allu-6](https://user-images.githubusercontent.com/123467715/222777039-78aebc34-614a-4461-9233-e32413620a5e.PNG)
+
+## Gradle Report:
 ![cal-1](https://user-images.githubusercontent.com/123467715/222656951-23aa440e-d7c5-467a-a798-cb87a9642745.PNG)
+
 ![cal-2](https://user-images.githubusercontent.com/123467715/222656992-ac9b2c78-9657-4860-89b7-2e0c81921d65.PNG)
