@@ -1,0 +1,7 @@
+<suite thread-count="1" verbose="1" name="Welcome to Google Calculator Android app Automation using Appium with selenium driver">
+    <test name="Calculator Automation">
+        <classes>
+            <class name="TestRunner"/>
+        </classes>
+    </test>
+</suite>
