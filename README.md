@@ -62,4 +62,5 @@ I have implemented in the following test automation steps.
 ![cal-2](https://user-images.githubusercontent.com/123467715/222656992-ac9b2c78-9657-4860-89b7-2e0c81921d65.PNG)
 
 ## Project video:
+[Youtube](https://youtu.be/mcgSZKY7c10)
 Youtube link: https://youtu.be/mcgSZKY7c10
