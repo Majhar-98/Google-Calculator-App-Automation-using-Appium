@@ -25,7 +25,8 @@ https://apps.evozi.com/apk-downloader/
 - Open Appium Server with following command: appium -p 4723
 - Open Appium Inspector
 - Open Intellij Idea
-- Execute the following command into the terminal: gradle clean test
+- Execute the following command into the terminal: 
+   gradle clean test
 
 ## Automation Steps: 
 I have implemented in the following test automation steps.
