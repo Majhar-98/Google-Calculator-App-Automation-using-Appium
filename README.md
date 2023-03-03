@@ -63,4 +63,4 @@ I have implemented in the following test automation steps.
 
 ## Project video:
 [Youtube](https://youtu.be/mcgSZKY7c10)
-Youtube link: https://youtu.be/mcgSZKY7c10
+
