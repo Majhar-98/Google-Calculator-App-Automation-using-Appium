@@ -36,6 +36,7 @@ https://apps.evozi.com/apk-downloader/
 - Open Intellij Idea
 - Execute the following command into the terminal: 
    gradle clean test
+- For generating Allure Report use these commands: allure generate allure-results --clean -o allure-report and allure serve allure-results
 
 ## Automation Steps: 
 I have implemented in the following test automation steps.
