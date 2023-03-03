@@ -5,12 +5,10 @@ App Automation with Selenium Appium refers to using Appium, an open-source mobil
 Appium is a cross-platform tool that enables automation of native, hybrid, and mobile web applications on iOS and Android platforms. Selenium is primarily used for automating web applications and has limited support for mobile applications. However, by using Appium with Selenium, developers can automate the testing of mobile applications across multiple platforms.
 
 ## App Name
-Calculator (https://play.google.com/store/apps/details?id=com.google.android.calculator)
+Calculator: https://play.google.com/store/apps/details?id=com.google.android.calculator
  
 ## APK build version downloader:
-you can use this link
-
-https://apps.evozi.com/apk-downloader/
+APK link: https://apps.evozi.com/apk-downloader/
 
 ## IDE Used:
 - Intelji Idea
