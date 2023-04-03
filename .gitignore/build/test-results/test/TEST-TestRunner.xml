@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestRunner" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-03-03T15:42:18" hostname="DESKTOP-6Q6ORF6" time="73.34">
+  <properties/>
+  <testcase name="doSum" classname="TestRunner" time="14.51"/>
+  <testcase name="doSub" classname="TestRunner" time="13.426"/>
+  <testcase name="doMulti" classname="TestRunner" time="11.115"/>
+  <testcase name="doDiv" classname="TestRunner" time="9.932"/>
+  <testcase name="doSeries" classname="TestRunner" time="22.769"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
